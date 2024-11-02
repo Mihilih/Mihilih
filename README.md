@@ -1,16 +1,52 @@
-## Hi there 👋
+# Mihili Herath
 
-<!--
-**Mihilih/Mihilih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi there! I'm a computer science student at Cornell University, passionate about software engineering, Android development, and machine learning. I enjoy working on impactful projects, learning new technologies, and applying them to create practical solutions.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📋 About Me
+- **Education:** Computer Science and Data Science, Cornell University, Class of 2027
+- **Certifications:** Machine Learning Certification from Break Through Tech AI, Cornell Tech
+- **Current Work:** Android Developer at Cornell AppDev and AI Fellow at Candogram
+
+---
+
+### 🛠️ Tools & Technologies
+
+- **Languages:** Python, Java, Kotlin, C++, OCaml, JavaScript, SQL
+- **Frameworks & Libraries:** Jetpack Compose, Flask, Django, Scikit-Learn, NumPy, Pandas, Seaborn, OkHttp, Moshi
+- **Developer Tools:** Git, GitHub, Docker, Google Cloud, WSL
+
+---
+
+### 💼 Projects
+
+- **[Ithaca Transit](https://github.com/IthacaTransit):** Android app for public transportation with ~2000 users in Ithaca. Working on features like favorites and recents using Kotlin and Jetpack Compose.
+- **[Latte Link](https://github.com/nchu05/Latte-Link):** Award-winning app at Cornell AppDev Hack Challenge for Best UI. Developed frontend features with Kotlin and handled backend integration.
+- **[ExpenseEase](https://github.com/Mihilih/ExpenseEaseFrontEnd):** Full-stack expense tracking app using Flask, SQLAlchemy, Docker, and Google Cloud. Designed robust backend architecture and implemented frontend UI with Kotlin.
+
+---
+
+### 🌱 Interests and Hobbies
+- **Android Development:** Teaching Android development at Cornell, focusing on modern Jetpack Compose techniques.
+- **Machine Learning & AI:** Currently working on a text classification project at Candogram.
+- **Research:** Enjoy exploring cross-language transpilation and LLM applications. Previously researched C to Rust transpilation.
+- **Photography:** Member of Chromatic at Cornell, a student-run portrait photography club.
+
+---
+
+### 📈 GitHub Stats
+
+![Mihili's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mihilih&show_icons=true&theme=radical)
+
+---
+
+### 📬 Contact
+
+- **Email:** mnh49@cornell.edu
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
+- **YouTube:** [YouTube Channel](https://www.youtube.com/)
+
+---
+
+Thank you for visiting my profile! Feel free to reach out – I’d love to connect with fellow developers, researchers, and anyone interested in tech and collaboration.
