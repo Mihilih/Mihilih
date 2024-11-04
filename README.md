@@ -35,6 +35,12 @@
 
 ---
 
+### ⚡Recent Activity
+
+<!--START_SECTION:activity-->
+
+---
+
 ### 📈 GitHub Stats
 
 ![Mihili's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mihilih&show_icons=true&theme=radical)
