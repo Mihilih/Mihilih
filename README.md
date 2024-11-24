@@ -30,7 +30,7 @@
 ### 🌱 Interests and Hobbies
 - **Android Development:** Teaching Android development at Cornell, focusing on modern Jetpack Compose techniques.
 - **Machine Learning & AI:** Currently working on a text classification project at Candogram.
-- Research: Previously researched C to Rust transpilation. Hoping to get hands-on experience in NLP research.
+- **Research**: Previously researched C to Rust transpilation. Hoping to get hands-on experience in NLP research.
 - **Photography:** Member of Chromatic at Cornell, a student-run portrait photography club. Managing personal [photography blog](https://www.instagram.com/ellynngraphy/)
 
 ---
