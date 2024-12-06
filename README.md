@@ -56,8 +56,7 @@
 ### 📬 Contact
 
 - **Email:** mnh49@cornell.edu
-- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/)
-- **YouTube:** [YouTube Channel](https://www.youtube.com/)
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/mihili-herath/)
 
 ---
 
