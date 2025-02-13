@@ -38,11 +38,11 @@
 ### ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#52](https://github.com/cuappdev/ithaca-transit-compose/issues/52) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
-2. ❗ Opened issue [#51](https://github.com/cuappdev/ithaca-transit-compose/issues/51) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
-3. ❗ Opened issue [#50](https://github.com/cuappdev/ithaca-transit-compose/issues/50) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
-4. 🎉 Merged PR [#48](https://github.com/cuappdev/ithaca-transit-compose/pull/48) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
-5. 🔒 Closed issue [#44](https://github.com/cuappdev/ithaca-transit-compose/issues/44) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
+1. 💪 Opened PR [#55](https://github.com/cuappdev/ithaca-transit-compose/pull/55) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
+2. ❗ Opened issue [#52](https://github.com/cuappdev/ithaca-transit-compose/issues/52) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
+3. ❗ Opened issue [#51](https://github.com/cuappdev/ithaca-transit-compose/issues/51) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
+4. ❗ Opened issue [#50](https://github.com/cuappdev/ithaca-transit-compose/issues/50) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
+5. 🎉 Merged PR [#48](https://github.com/cuappdev/ithaca-transit-compose/pull/48) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
 <!--END_SECTION:activity-->
 
 ---
