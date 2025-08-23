@@ -7,14 +7,15 @@
 ### 📋 About Me
 - **Education:** Computer Science and Data Science, Cornell University, Class of 2027
 - **Certifications:** Machine Learning Certification from Break Through Tech AI, Cornell Tech
-- **Current Work:** Android Developer at Cornell AppDev and AI Fellow at Candogram
+- **Current Work:** Android Developer at Cornell AppDev 
+- **Previous Work:** Mobile Engineering Intern at Zoox and AI Fellow at Candogram
 
 ---
 
 ### 🛠️ Tools & Technologies
 
 - **Languages:** Python, Java, Kotlin, C++, OCaml, JavaScript, SQL
-- **Frameworks & Libraries:** Jetpack Compose, Flask, Django, Scikit-Learn, NumPy, Pandas, Seaborn, OkHttp, Moshi
+- **Frameworks & Libraries:** Jetpack Compose, Kotlin Multiplatform, Flask, Django, Scikit-Learn, NumPy, Pandas, Seaborn, OkHttp, Moshi
 - **Developer Tools:** Git, GitHub, Docker, Google Cloud, WSL
 
 ---
@@ -28,9 +29,9 @@
 ---
 
 ### 🌱 Interests and Hobbies
-- **Android Development:** Teaching Android development at Cornell, focusing on modern Jetpack Compose techniques.
-- **Machine Learning & AI:** Currently working on a text classification project at Candogram.
-- **Research**: Previously researched C to Rust transpilation. Hoping to get hands-on experience in NLP research.
+- **Android Development:** Developing at Cornell AppDev, focusing on modern Jetpack Compose techniques. Previously worked on mobile apps at Zoox, focusing on Kotlin Multiplatform
+- **Machine Learning & AI:** Previously worked on a text classification project at Candogram.
+- **Research**: Previously researched C to Rust transpilation. Hoping to get hands-on experience in Robotics and NLP research.
 - **Photography:** Member of Chromatic at Cornell, a student-run portrait photography club. Managing personal [photography blog](https://www.instagram.com/ellynngraphy/)
 
 ---
