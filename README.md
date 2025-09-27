@@ -39,7 +39,7 @@
 ### ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#80](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+1. 🗣 Commented on [#75](https://github.com/cuappdev/resell-android/pull/75#issuecomment-3340607462) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
 2. ❗ Opened issue [#105](https://github.com/cuappdev/ithaca-transit-compose/issues/105) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
 3. 💪 Opened PR [#104](https://github.com/cuappdev/ithaca-transit-compose/pull/104) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
 4. 🎉 Merged PR [#98](https://github.com/cuappdev/ithaca-transit-compose/pull/98) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
