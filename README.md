@@ -39,11 +39,11 @@
 ### ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/cuappdev/resell-android/pull/75#issuecomment-3342084417) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
-2. 🗣 Commented on [#75](https://github.com/cuappdev/resell-android/pull/75#issuecomment-3340607462) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
-3. 🗣 Commented on [#75](https://github.com/cuappdev/resell-android/pull/75#issuecomment-3336278215) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
-4. 💪 Opened PR [#80](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
-5. 🗣 Commented on [#98](https://github.com/cuappdev/ithaca-transit-compose/pull/98#issuecomment-2706589160) in [cuappdev/ithaca-transit-compose](https://github.com/cuappdev/ithaca-transit-compose)
+1. 💪 Opened PR [#82](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+2. 🗣 Commented on [#75](https://github.com/cuappdev/resell-android/pull/75#issuecomment-3342084417) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+3. 🗣 Commented on [#75](https://github.com/cuappdev/resell-android/pull/75#issuecomment-3340607462) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+4. 🗣 Commented on [#75](https://github.com/cuappdev/resell-android/pull/75#issuecomment-3336278215) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+5. 💪 Opened PR [#80](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
 <!--END_SECTION:activity-->
 
 ---
