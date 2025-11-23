@@ -39,11 +39,11 @@
 ### ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#87](https://github.com/cuappdev/resell-android/pull/87#issuecomment-3554235146) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
-2. 💪 Opened PR [#88](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
-3. 💪 Opened PR [#87](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
-4. 💪 Opened PR [#84](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
-5. 💪 Opened PR [#80](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+1.  Labeled issue [#89](https://github.com/cuappdev/resell-android/issues/89) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+2. ❗ Opened issue [#89](https://github.com/cuappdev/resell-android/issues/89) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+3. 🗣 Commented on [#87](https://github.com/cuappdev/resell-android/pull/87#issuecomment-3554235146) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+4. 💪 Opened PR [#88](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+5. 💪 Opened PR [#87](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
 <!--END_SECTION:activity-->
 
 ---
