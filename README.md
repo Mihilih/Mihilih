@@ -39,8 +39,8 @@
 ### ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#88](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
-2.  Labeled issue [#89](https://github.com/cuappdev/resell-android/issues/89) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+1. 💪 Opened PR [#2](https://github.com/cuappdev/roomie-backend/pull/2) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
+2. 💪 Opened PR [#1](https://github.com/cuappdev/roomie-backend/pull/1) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
 3. ❗ Opened issue [#89](https://github.com/cuappdev/resell-android/issues/89) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
 4. ❌ Merged PR [#87](undefined) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
 5. 🗣 Commented on [#87](https://github.com/cuappdev/resell-android/pull/87#issuecomment-3554235146) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
