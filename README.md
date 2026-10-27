@@ -39,11 +39,11 @@
 ### ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Mihilih/project-language-ios/pull/1) in [Mihilih/project-language-ios](https://github.com/Mihilih/project-language-ios)
-2. 💪 Opened PR [#2](https://github.com/cuappdev/roomie-backend/pull/2) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
-3. 💪 Opened PR [#1](https://github.com/cuappdev/roomie-backend/pull/1) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
-4. 💪 Opened PR [#1](https://github.com/Mihilih/project-language-ios/pull/1) in [Mihilih/project-language-ios](https://github.com/Mihilih/project-language-ios)
-5. 🗣 Commented on [#87](https://github.com/cuappdev/resell-android/pull/87#issuecomment-3554235146) in [cuappdev/resell-android](https://github.com/cuappdev/resell-android)
+1. 💪 Opened PR [#3](https://github.com/cuappdev/roomie-backend/pull/3) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
+2. 🎉 Merged PR [#1](https://github.com/Mihilih/project-language-ios/pull/1) in [Mihilih/project-language-ios](https://github.com/Mihilih/project-language-ios)
+3. 💪 Opened PR [#2](https://github.com/cuappdev/roomie-backend/pull/2) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
+4. 💪 Opened PR [#1](https://github.com/cuappdev/roomie-backend/pull/1) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
+5. 💪 Opened PR [#1](https://github.com/Mihilih/project-language-ios/pull/1) in [Mihilih/project-language-ios](https://github.com/Mihilih/project-language-ios)
 <!--END_SECTION:activity-->
 
 ---
