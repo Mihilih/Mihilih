@@ -39,11 +39,11 @@
 ### ⚡Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](https://github.com/cuappdev/roomie-backend/pull/7) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
-2. 💪 Opened PR [#5](https://github.com/cuappdev/roomie-backend/pull/5) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
-3. 💪 Opened PR [#4](https://github.com/cuappdev/roomie-backend/pull/4) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
-4. 💪 Opened PR [#3](https://github.com/cuappdev/roomie-backend/pull/3) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
-5. 🎉 Merged PR [#1](https://github.com/Mihilih/project-language-ios/pull/1) in [Mihilih/project-language-ios](https://github.com/Mihilih/project-language-ios)
+1. 🎉 Merged PR [#2](https://github.com/Mihilih/project-language-ios/pull/2) in [Mihilih/project-language-ios](https://github.com/Mihilih/project-language-ios)
+2. 💪 Opened PR [#2](https://github.com/Mihilih/project-language-ios/pull/2) in [Mihilih/project-language-ios](https://github.com/Mihilih/project-language-ios)
+3. 💪 Opened PR [#7](https://github.com/cuappdev/roomie-backend/pull/7) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
+4. 💪 Opened PR [#5](https://github.com/cuappdev/roomie-backend/pull/5) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
+5. 💪 Opened PR [#4](https://github.com/cuappdev/roomie-backend/pull/4) in [cuappdev/roomie-backend](https://github.com/cuappdev/roomie-backend)
 <!--END_SECTION:activity-->
 
 ---
